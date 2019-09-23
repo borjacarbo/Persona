@@ -17,7 +17,7 @@ public class MyClass {
         ArrayList<Persona> pArray = new ArrayList<>();
 
         
-        pArray.add(new Persona( "Andres", 40, 12345678));
+        pArray.add(new Persona( "Andreu", 40, 12345678));
         pArray.add(new Alumno( "Borja", 47, 12345678, 10));
         pArray.add(new Profesor("Jesus", 45, 87765433, "aplicaciones móviles"));
 
